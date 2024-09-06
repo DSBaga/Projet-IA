@@ -1,0 +1,2 @@
+*.npy filter=lfs diff=lfs merge=lfs -text
+Desktop/PorfolioGitProject/Models/Movies_final_model.npy filter=lfs diff=lfs merge=lfs -text
